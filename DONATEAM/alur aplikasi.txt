@@ -1,0 +1,15 @@
+alur puskesmas appl (penambahan use case setelah resep obat yaitu pembayaran
+
+- login --> ( kalo sudah daftar) (kalo blm punya akun buat dlu)
+- pendaftaran --> ( dia sakit apa dan pengen ke poli apa)
+(buat poli nya juga) (sekaligus administrasi metode pembayaran yang nanti muncul di sesi ambil obat)
+(pasien bpjs atau enggak)
+-  daftar pasien poli --> pasien dapat nomor antrian 
+- pemeriksaan --> menampilkan laporan pemeriksaan (nomor rekam medis, nama pasien , nama dokter yang memeriksa, penyakit yang diderita)
+- resep obat --> muncul resep obat yang didapatkan pasien dengan dokter menginputkan resep obat yang akan dikirim ke bagian farmasi 
+- pembayaran --> muncul receipt (struk) pembayaran dengan detail harga obat dan biaya jasa pemeriksaan lalu nanti dikonfirmasi bagian pembayaran setelah pasien melakukan pembayaran
+- ambil obat --> bagian farmasi menerima resep obat dari dokter sesuai urutan pasien dan pasien akan mendapatkan nomor antrean pengambilan obat
+- laporan obat --> setelah pasien mengambil obat akan muncul data obat yang diterima sekaligus panduan meminumnya (muncul riwayat pemeriksaan pasien)
+- logout     
+
+-poli ( gigi, umum, anak, penyakit dalam)
